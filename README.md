@@ -132,6 +132,13 @@ The status will change to `Active` when the database is ready, this will only ta
     <img src="https://github.com/datastaxdevs/workshop-graphql-netflix/blob/main/tutorial/images/astra-create-token.gif?raw=true" />
 </details>
 
+> **⚠️ Important**
+> ```
+> The instructor will show you on screen how to create a token 
+> but will have to destroy to token immediately for security reasons.
+> ```
+
+
 [🏠 Back to Table of Contents](#table-of-contents)
 
 ## 3. Deploy to Netlify
